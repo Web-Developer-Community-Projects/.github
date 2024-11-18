@@ -1,9 +1,11 @@
+![Hero image](https://media.licdn.com/dms/image/v2/C5612AQGHiwflmcAOaQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1601575501961?e=1735776000&v=beta&t=_yR8x-qH3KMt4u6y3JaACnU5E0Kj5BAGKJe8AWrybr4)
+
 # Web Community Dev - (HTML,CSS y JavaScript)
 
 Somos un grupo de desarrolladores apasionados por la tecnología y el desarrollo
 web. Nuestro objetivo es fomentar el aprendizaje colaborativo, compartir
 conocimientos y trabajar en proyectos innovadores que contribuyan al crecimiento
-profesional de nuestros miembros.
+profesional de los miembros de la comunidad.
 
 ## Nuestra Misión
 
@@ -21,8 +23,6 @@ profesional de nuestros miembros.
 - **Proyectos Colaborativos:** Desarrollamos aplicaciones, sitios web y
   herramientas para poner en práctica nuestras habilidades y aprender unos de
   otros.
-- **Eventos y Talleres:** Organizamos reuniones y hackathons para profundizar en
-  tecnologías específicas y fomentar el trabajo en equipo.
 - **Soporte Mutuo:** Ayudamos a resolver dudas, intercambiar ideas y compartir
   soluciones a problemas comunes del desarrollo web.
 
@@ -32,8 +32,6 @@ profesional de nuestros miembros.
   generador de recetas con inteligencia artificial, y una plataforma de sorteos,
   demostrando nuestra capacidad para trabajar en proyectos innovadores y
   colaborativos que cubren diversas necesidades y mercados.
-- **Comunidad Activa:** Contribuimos regularmente en foros, grupos de discusión
-  y colaboraciones internas.
 - **Crecimiento Profesional:** A través de proyectos como RecetIA y la gestión
   de sorteos, los miembros de la comunidad han tenido la oportunidad de mejorar
   sus habilidades técnicas, especialmente en áreas como backend, seguridad con
