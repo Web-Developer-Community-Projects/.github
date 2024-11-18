@@ -5,7 +5,7 @@
 Somos un grupo de desarrolladores apasionados por la tecnología y el desarrollo
 web. Nuestro objetivo es fomentar el aprendizaje colaborativo, compartir
 conocimientos y trabajar en proyectos innovadores que contribuyan al crecimiento
-profesional de los miembros de la comunidad.
+profesional a los miembros de la comunidad.
 
 ## Nuestra Misión
 
